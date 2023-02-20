@@ -1,0 +1,9 @@
+[package]
+name = "fcrc32"
+version = "0.1.0"
+authors = [ "Nayuki" ]
+edition = "2021"
+
+[lib]
+name = "fcrc32"
+path = "src/lib.rs"
